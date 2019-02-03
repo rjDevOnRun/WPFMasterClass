@@ -1,0 +1,7 @@
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe.config
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.exe
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\bin\Debug\CSharpPractice.pdb
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csprojResolveAssemblyReference.cache
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.csproj.CoreCompileInputs.cache
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.exe
+C:\Users\lalor\source\repos\CSharpPractice\CSharpPractice\obj\Debug\CSharpPractice.pdb
