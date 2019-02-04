@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\
+D:\DOWNLOADS\Source-code-Custom-User-Controls-Using-Custom-Controls\DesktopContactsApp\DesktopContactsApp\obj\Debug\
 DesktopContactsApp
 none
 false
 DEBUG;TRACE
-C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\App.xaml
-2-1710316630
-2-467055246
-7919011598
-711263260517
-MainWindow.xaml;NewContactWindow.xaml;
+D:\DOWNLOADS\Source-code-Custom-User-Controls-Using-Custom-Controls\DesktopContactsApp\DesktopContactsApp\App.xaml
+31244030851
+21734280722
+12-1230944226
+71-12278141
+Controls\ContactControl.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
-False
+True
 

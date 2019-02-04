@@ -10,11 +10,11 @@ none
 false
 DEBUG;TRACE
 C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\App.xaml
-2-1710316630
+31244030851
 2-467055246
-11-1658274409
+12-1268237837
 711263260517
-MainWindow.xaml;NewContactWindow.xaml;
+Controls\ContactControl.xaml;MainWindow.xaml;NewContactWindow.xaml;
 
-False
+True
 

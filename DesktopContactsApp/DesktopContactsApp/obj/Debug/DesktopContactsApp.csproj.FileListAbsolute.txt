@@ -25,3 +25,6 @@ C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLi
 C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLite-net.pdb
 C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\bin\Debug\SQLite-net.xml
 C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\DesktopContactsApp_Content.g.cs
+C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\Controls\ContactControl.g.cs
+C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lalor\source\repos\DesktopContactsApp\DesktopContactsApp\obj\Debug\Controls\ContactControl.baml
